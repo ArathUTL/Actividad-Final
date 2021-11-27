@@ -19,7 +19,7 @@
     <div id="my-nav" class="collapse navbar-collapse">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.php">Homeaaaa</a>
+          <a class="nav-link" href="index.php">Homeaaaaaa</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Carrito(0)</a>
