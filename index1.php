@@ -12,7 +12,7 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
-    <a class="navbar-brand" href="index.php">Logo de la empresaaaa</a>
+    <a class="navbar-brand" href="index.php">Logo de la empresaaaaeeee</a>
     <button class="navbar-toggler" type="button" data-target="#my-nav" data-toggle="collapse">
           <span class="navbar-toggler-icon"></span>
     </button>      
