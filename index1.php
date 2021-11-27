@@ -22,7 +22,7 @@
           <a class="nav-link" href="index.php">Homeaaaaaa</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="#">Carrito(0)</a>
+          <a class="nav-link" href="#">Carrito(2)</a>
         </li>
       </ul>
   </nav>
